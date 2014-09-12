@@ -15,5 +15,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         Log.e(LOG_TAG, "jst testing log features");
+        Log.d(LOG_TAG, "just 2 see changes done");
     }
 }
